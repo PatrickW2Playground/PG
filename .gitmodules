@@ -1,0 +1,3 @@
+[submodule "HelloWorld2"]
+	path = HelloWorld2
+	url = git@github.com:PatrickW2Playground/HelloWorld2.git
